@@ -7,14 +7,6 @@ export const StyledGrid = styled.div`
     justify-content: space-between;
 `;
 
-export const StyledMainContent = styled.section`
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0 auto;
-    width: 80%;
-`;
-
 export const StyledRow = styled.div`
     border-bottom: 1px solid #ccc;
     padding: 40px 0;

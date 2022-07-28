@@ -24,14 +24,6 @@ export const StyledCard = styled.div`
     }
 `;
 
-export const StyledGrid = styled.div`
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 100%;
-`;
-
 export const StyledName = styled.div`
     padding: 20px 16px;
 `;
