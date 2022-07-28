@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 import { CharacterCard } from '../CharacterCard/CharacterCard';
 
-import { getCharacter } from '../../services/getCharacters';
+import { getCharacter } from '../../services/getCharacter';
 
 export const CharactersList = ({ characterName = '' }) => {
     const [ data, setData ] = useState([]);
