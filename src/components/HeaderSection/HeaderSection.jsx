@@ -7,7 +7,7 @@ import {
   StyledImg,
   StyledTitle
  } from './HeaderSection.styled';
-import marvelLogo from '../../static/marvelLogo.svg';
+import marvelLogo from '../../statics/marvelLogo.svg';
 
 export const HeaderSection = () => (
   <StyledHeader>
